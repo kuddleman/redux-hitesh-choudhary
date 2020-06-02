@@ -1,3 +1,17 @@
+To make Redux, there are 4 steps:
+
+1.  Store
+     A store needs:
+        A reducer
+
+
+        State
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
