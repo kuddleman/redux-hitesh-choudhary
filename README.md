@@ -1,11 +1,21 @@
 To make Redux, there are 4 steps:
 
 1.  Store
-     A store needs:
+     A store needs 2 things:
         A reducer
 
-
         State
+
+2. Create the Reducer
+     Reducer is an agent..it does what you tell it to do
+        A reducer needs 2 things:
+            A state.  What is the current state?
+            An action.  What action should we take?
+
+3. Subscribe:  Getting connected to the base which is the state
+
+
+4. Dispatch:  Send that action off!
 
 
 
